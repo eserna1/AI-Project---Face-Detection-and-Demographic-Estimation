@@ -221,7 +221,7 @@ https://susanqq.github.io/UTKFace/
 
 ---
 
-## Emanuel Serna y Samuel Areiza
+## Emanuel Serna & Samuel Areiza
 
 Artificial Intelligence - EAFIT
 
