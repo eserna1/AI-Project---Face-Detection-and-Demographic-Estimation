@@ -74,7 +74,16 @@ Detected faces → Face cropping → ResNet18 → Age + Gender predictions
 ├── requirements.txt
 └── AI_USAGE_STATEMENT.md
 ```
+## Model Checkpoints
 
+The trained weights can be downloaded from Hugging Face:
+
+- YOLOv8 Face Detector:
+  https://huggingface.co/TU_USUARIO/face-detection-demographic-estimation
+
+- Demographic ResNet18:
+  https://huggingface.co/TU_USUARIO/face-detection-demographic-estimation
+  
 ---
 
 ## Installation
