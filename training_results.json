@@ -1,0 +1,7 @@
+{
+  "exp_auto_aug": {
+    "save_dir": "/teamspace/studios/this_studio/runs/detect/runs/face/exp_auto_aug",
+    "best_pt": "/teamspace/studios/this_studio/runs/detect/runs/face/exp_auto_aug/weights/best.pt",
+    "elapsed_h": 4.104181964198748
+  }
+}
