@@ -1,0 +1,17 @@
+torch
+torchvision
+ultralytics
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+pyyaml
+Pillow
+requests
+fastapi
+litserve
+psutil
+roboflow
+datasets
