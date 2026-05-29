@@ -79,10 +79,10 @@ Detected faces → Face cropping → ResNet18 → Age + Gender predictions
 The trained weights can be downloaded from Hugging Face:
 
 - YOLOv8 Face Detector:
-  [https://huggingface.co/TU_USUARIO/face-detection-demographic-estimation](https://huggingface.co/Emaserna/face-detection-demographic-estimation/blob/main/yolo_face_best.pt)
+  [yolo_face_best.pt](https://huggingface.co/Emaserna/face-detection-demographic-estimation/blob/main/yolo_face_best.pt)
 
 - Demographic ResNet18:
-  [https://huggingface.co/TU_USUARIO/face-detection-demographic-estimation](https://huggingface.co/Emaserna/face-detection-demographic-estimation/blob/main/checkpoints_demographic_resnet18.pt)
+  [demographic_resnet18.pt](https://huggingface.co/Emaserna/face-detection-demographic-estimation/blob/main/checkpoints_demographic_resnet18.pt)
   
 ---
 
